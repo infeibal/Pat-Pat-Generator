@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pat-Pat-Generator/static/css/main.93f95599.css",
+    "main.js": "/Pat-Pat-Generator/static/js/main.44d0b518.js",
+    "static/media/hand.gif": "/Pat-Pat-Generator/static/media/hand.260211fb84e197f40850.gif",
+    "index.html": "/Pat-Pat-Generator/index.html",
+    "main.93f95599.css.map": "/Pat-Pat-Generator/static/css/main.93f95599.css.map",
+    "main.44d0b518.js.map": "/Pat-Pat-Generator/static/js/main.44d0b518.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f95599.css",
+    "static/js/main.44d0b518.js"
+  ]
+}
